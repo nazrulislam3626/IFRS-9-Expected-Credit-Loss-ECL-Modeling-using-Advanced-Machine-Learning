@@ -1,4 +1,3 @@
-# IFRS-9-Expected-Credit-Loss-ECL-Modeling-using-Advanced-Machine-Learning
 
 # Project Title: IFRS 9 Expected Credit Loss (ECL) Modeling using Advanced Machine Learning Author: [Mohammed Nazrul Islam]
 
@@ -68,3 +67,7 @@ Overall Conclusion:
 
 # conclusion:
 Based on a comprehensive review of all metrics, XGBClassifier, Random Forest, and GradientBoostingClassifier stand out as the strongest performers. They consistently achieve high accuracy, low MSE, excellent F1-scores, and superior AUC-ROC/Gini Coefficients. While Random Forest and Decision Tree can overfit the training data, XGBClassifier and GradientBoostingClassifier show robust generalization capabilities. The choice among the top three might come down to a balance between performance, interpretability, and specific business needs for False Positives vs. False Negatives.
+
+# Disclaimer and acknowledgement:
+This project is an applied learning exercise using publicly available GitHub repositories and is an adaptation of standard methods as inspired by the mentor, Eng. Golam Rabbany M.Eng in ICT at BUET, WINGS - Institute of Research, Innovation, Incubation( https://wingsiriic.com.bd/).
+
