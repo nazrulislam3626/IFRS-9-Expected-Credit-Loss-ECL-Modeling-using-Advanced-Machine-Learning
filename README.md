@@ -2,7 +2,7 @@
 # Project Title: IFRS 9 Expected Credit Loss (ECL) Modeling using Advanced Machine Learning Author: [Mohammed Nazrul Islam]
 
 # Dataset: 
-The dataset is collected from GitHub URL: https://raw.githubusercontent.com/LEARNEREA/Data_Science/main/Data/credit_risk_dataset.csv. Subsequently, new features are derived as per the requirements of IFRS 9 for the calculation of PD. This project develops a predictive framework for credit risk under IFRS 9 standards. It leverages a dataset of over 32,500 entries to predict the Probability of Default (PD).
+The dataset is collected from GitHub URL: https://raw.githubusercontent.com/LEARNEREA/Data_Science/main/Data/credit_risk_dataset.csv or https://www.kaggle.com/datasets/laotse/credit-risk-dataset. Subsequently, new features are derived as per the requirements of IFRS 9 for the calculation of PD. This project develops a predictive framework for credit risk under IFRS 9 standards. It leverages a dataset of over 32,500 entries to predict the Probability of Default (PD).
 
 # Methodology
 
